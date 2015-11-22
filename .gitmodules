@@ -1,0 +1,6 @@
+[submodule "advert-service"]
+	path = advert-service
+	url = git@github.com:vkozubal/advert-service.git
+[submodule "cas-server"]
+	path = cas-server
+	url = git@github.com:vkozubal/cas-server.git
