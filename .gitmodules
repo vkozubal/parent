@@ -4,3 +4,6 @@
 [submodule "cas-server"]
 	path = cas-server
 	url = git@github.com:vkozubal/cas-server.git
+[submodule "middleware"]
+	path = middleware
+	url = git@github.com:vkozubal/middleware.git
